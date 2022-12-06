@@ -27,8 +27,8 @@ const treeArtArr = [
   " ║                                     ║ ",
   " ╚═════════════════════════════════════╝ ",
   "                                           ",
-  " From: Alan                                ",
-  "                                           ",
+  " From: Alan Smith                          ",
+  " https://www.alanbsmith.dev/contact        ",
 ];
 
 export function generateCard() {

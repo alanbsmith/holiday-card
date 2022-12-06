@@ -1,0 +1,22 @@
+{
+  "name": "@alanbsmith/holiday-card",
+  "version": "0.1.2",
+  "description": "a festive holiday card delivered to your terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanbsmith/holiday-card",
+    "author": "Alan B Smith <a.bax.smith@gmail.com> (https://alanbsmith.dev)"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.1.2"
+  }
+}
